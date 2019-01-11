@@ -15,11 +15,11 @@
 		"tn": "primemixedslider",
 		"uid": "news-01",
 		"pitems": [{
-            "au": "MANASH PRATIM GOHAIN",
-		    "ag": "TNN",		
+			"au": "MANASH PRATIM GOHAIN",
+			"ag": "TNN",
 			"upd": "1547094120000",
-		    "lpt": "1547094172478",
-		    "dl": "1547071200000",
+			"lpt": "1547094172478",
+			"dl": "1547071200000",
 			"hl": "UGCCCCC to institutes: Refund fees and return certificates",
 			"imageid": "52142821&pl=10602",
 			"id": "52142819",
@@ -27,16 +27,15 @@
 			"tn": "news",
 			"su": "http://toi.in/uzP5nY/"
 		}, {
-		"upd": "1547024880000",
-		"lpt": "1547024902197",
-		"dl": "1547024880000",
+			"upd": "1547024880000",
+			"lpt": "1547024902197",
+			"dl": "1547024880000",
 			"id": "56660210",
 			"hl": "Meritocratic America could have Hindu President in future: Obama",
 			"du": "00:36",
 			"imageid": "56660210&pl=28044",
 			"dm": "t",
 			"tn": "video",
-			"upd": "1484804220000",
 			"su": "http://toi.in/A5zlSZ/"
 		}, {
 			"id": "56517173",
@@ -55,8 +54,8 @@
 			"su": "http://toi.in/eSe7UY/"
 		}, {
 			"upd": "1547024880000",
-		"lpt": "1547024902197",
-		"dl": "1547024880000",
+			"lpt": "1547024902197",
+			"dl": "1547024880000",
 			"hl": "Photo story: 5 must have Indian organic foods",
 			"tn": "photostory",
 			"imageid": "50509681",
@@ -403,9 +402,9 @@
 		"tn": "rotaryslider",
 		"cs": "prime",
 		"pitems": [{
-		"upd": "1547031300000",
-		"lpt": "1547031313708",
-		"dl": "1547008500000",
+			"upd": "1547031300000",
+			"lpt": "1547031313708",
+			"dl": "1547008500000",
 			"id": "59200443",
 			"hl": "Champions Trophy: On Father's Day, mother of all finals",
 			"du": "01:22",
@@ -727,9 +726,9 @@
 			"imageid": "592004438997&pl=80621",
 			"dm": "t",
 			"tn": "news",
-            "upd": "1547094120000",
-		    "lpt": "1547094172478",
-		    "dl": "1547071200000",
+			"upd": "1547094120000",
+			"lpt": "1547094172478",
+			"dl": "1547071200000",
 			"au": "Rohit Singhal",
 			"auimgid": "65350794"
 		}, {
@@ -739,8 +738,8 @@
 			"dm": "t",
 			"tn": "news",
 			"upd": "1547094120000",
-		    "lpt": "1547094172478",
-		    "dl": "1547071200000",
+			"lpt": "1547094172478",
+			"dl": "1547071200000",
 			"au": "Rohit Singhal",
 			"auimgid": "65350794"
 		}, {
@@ -800,8 +799,8 @@
 			"dm": "t",
 			"tn": "news",
 			"upd": "1547100240000",
-		"lpt": "1547100269410",
-		"dl": "1547099100000"
+			"lpt": "1547100269410",
+			"dl": "1547099100000"
 		}, {
 			"id": "65350794",
 			"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
