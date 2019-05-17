@@ -6,11 +6,7 @@
 		"tp": "6",
 		"cp": "1"
 	},
-	"items": [{
-		"id": "2222222",
-		"tn": "resultwidget",
-		"defaulturl": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_test_ios_aos_app_loksabha_result_widget.htm"
-	}, {
+	"items": [ {
 		"id": "1234567",
 		"tn": "allstatepieexitpoll",
 		"defaulturl": "http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_app_loksabha_exitpoll_widget.htm"
