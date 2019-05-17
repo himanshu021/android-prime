@@ -15,6 +15,7 @@
     },
     {
       "id": "11122222",
+     "imageid": "69321969",
       "tn": "datahublist",
       "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
       "type": "banner"
