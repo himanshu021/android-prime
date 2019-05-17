@@ -7,6 +7,23 @@
 		"cp": "1"
 	},
 	"items": [ {
+      "id": "111111111",
+      "tn": "datahublist",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
+      "type": "smallBanner"
+    },
+    {
+      "id": "11122222",
+      "tn": "datahublist",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
+      "type": "banner"
+    },
+    {
+      "id": "11133333",
+      "tn": "datahublist",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
+      "type": "bigBanner"
+    },{
 		"id": "1234567",
 		"tn": "allstatepieexitpoll",
 		"defaulturl": "http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_app_loksabha_exitpoll_widget.htm"
