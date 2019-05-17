@@ -9,6 +9,7 @@
 	"items": [ {
       "id": "111111111",
       "tn": "datahublist",
+      "imageid": "68741750",
       "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
       "type": "smallBanner"
     },
@@ -20,6 +21,7 @@
     },
     {
       "id": "11133333",
+       "imageid": "68741750",
       "tn": "datahublist",
       "defaulturl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
       "type": "bigBanner"
