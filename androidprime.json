@@ -7,6 +7,10 @@
 		"cp": "1"
 	},
 	"items": [ {
+      "id": "1234569",
+      "tn": "allstatepieexitpoll",
+      "defaulturl": "http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_old_aos_app_assembly_exitpoll_widget.htm"
+    },{
       "id": "111111111",
       "tn": "datahublist",
       "imageid": "68741750",
