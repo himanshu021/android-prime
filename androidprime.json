@@ -6,12 +6,7 @@
 		"tp": "6",
 		"cp": "1"
 	},
-	"items": [{
-			"hl": "ICC ",
-			"id": "222223322",
-			"tn": "mixedsliderlarge",
-			"defaulturl": "https://myapi-45880.firebaseapp.com/SliderLarg.json"
-		},
+	"items": [
 		{
 			"st": "true",
 			"upd": "1559024820000",
@@ -38,6 +33,11 @@
 			"dm": "t",
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-recreates-his-jeene-ke-hai-chaar-din-steps-with-a-young-fan-but-it-has-a-twist/articleshow/69533022.cms"
+		},{
+			"hl": "ICC ",
+			"id": "222223322",
+			"tn": "mixedsliderlarge",
+			"defaulturl": "https://myapi-45880.firebaseapp.com/SliderLarg.json"
 		},
 		{
 			"st": "true",
