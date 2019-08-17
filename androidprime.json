@@ -114,7 +114,7 @@
 	}, {
 		"id": "123456716",
 		"tn": "dfpmrec",
-		"isFanPriortized": "false",
+		"isFanPriortized": "true",
 		"fanAdCode": "327541940615355_2332170303485832",
 		"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
 	},{
@@ -256,12 +256,6 @@
 		"tn": "news",
 		"wu": "https://timesofindia.indiatimes.com/business/india-business/passenger-vehicle-sales-fall-for-ninth-straight-month-dive-31-in-july/articleshow/70654709.cms",
 		"kws": "Passenger vehicle sales July,passenger vehicle sales,July Passenger vehicle sales,July car sales,Car sales in July,Car sales"
-	},{
-		"id": "123456720",
-		"tn": "dfpmrec",
-		"isFanPriortized": "true",
-		"fanAdCode": "",
-		"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
 	}, {
 		"upd": "1565665680000",
 		"lpt": "1565665725044",
@@ -295,12 +289,6 @@
 		"tn": "news",
 		"wu": "https://timesofindia.indiatimes.com/city/navi-mumbai/farmer-stung-by-bee-undergoes-heart-transplant/articleshow/70651498.cms",
 		"kws": "rajeev waghmare,heart transplant,farmer stung by bee,Farmer,bee stung,bee"
-	}, {
-		"id": "123456716",
-		"tn": "dfpmrec",
-		"isFanPriortized": "true",
-		"fanAdCode": "327541940615355_2332170303485832",
-		"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
 	}, {
 		"upd": "1565593020000",
 		"lpt": "1565593050793",
